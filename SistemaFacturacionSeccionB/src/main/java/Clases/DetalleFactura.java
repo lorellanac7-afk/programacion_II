@@ -8,7 +8,7 @@ public class DetalleFactura {
     int cantidad;
     double precioUnitario;
     
-    public DetalleFactura(int idDetalle, String descripcionProducto, int cantidad, double precioUnitario) {
+    public DetalleFactura(int idDetalle, String descripcionProduc0to, int cantidad, double precioUnitario) {
         this.idDetalle = idDetalle;
         this.descripcionProducto = descripcionProducto;
         this.cantidad = cantidad;
